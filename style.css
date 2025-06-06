@@ -1,0 +1,43 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(223, 222, 255);
+
+}
+
+a{
+
+    text-decoration: dashed;
+    margin-top: 50px;
+    color: rgb(37, 27, 27);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a:hover{
+
+    text-decoration: dashed;
+    margin-top: 50px;
+    text-transform: 2,5px;
+    color: rgb(206, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.nominho{
+
+    margin-bottom: 50px;
+    color: rgb(155, 58, 13);
+
+}
+
+.h2{
+
+    color: rgb(0, 90, 168);
+    text-align: center;
+}
+
+h4{
+
+    text-align: 40px;
+}
