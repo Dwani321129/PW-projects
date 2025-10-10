@@ -1,0 +1,21 @@
+*{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    text-align: center;
+
+
+}
+
+.titlo{
+
+    border-bottom-width: 2px;
+    margin-bottom: 1rem;
+}
+
+.exe{
+
+    margin-top: 20px;
+}
